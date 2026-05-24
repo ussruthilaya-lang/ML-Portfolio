@@ -8,9 +8,10 @@ I'm actively learning machine learning and documenting that journey here - from 
 
 ## Projects
 
-| Project | Description | Topics |
-|---------|-------------|--------|
-| [Movielens Project](./Movielens_Project/) | Exploration and analysis of the MovieLens dataset | EDA, Collaborative Filtering |
+| Project | Description | Topics | My Learning |
+|---------|-------------|--------|-------------|
+| [Movielens Project](./Movielens_Project/) | Exploration and analysis of the MovieLens dataset | EDA, Collaborative Filtering | — |
+| [Data Pipeline Practice](./DataPipeline_Practice/) | End-to-end data preprocessing pipeline on a customer dataset | Missing Value Imputation, Encoding, Scaling, sklearn Pipeline | Understood data leakage, why scalers must fit on train only, when to use OneHot vs Label encoding, and how sklearn Pipeline prevents manual errors |
 
 ```
 
